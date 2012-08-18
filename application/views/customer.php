@@ -8,7 +8,6 @@
 		<div class="error"><?php echo $error?></div>
 	<?php } else { ?>
 		<div class="row">
-			10
 			Customer ID: <input disabled="disabled" id="cid" name="cid" value="<?php echo $cid ?>" />
 			First Name: <input disabled="disabled" id="fname" name="fname" value="<?php echo $fname ?>" />
 			Last Name: <input disabled="disabled" id="lname" name="lname" value="<?php echo $lname ?>" />
